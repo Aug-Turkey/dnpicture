@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.home_tab .home_tab_title {
+  position: relative;
+}
+.home_tab .home_tab_title .title_inner {
+  width: 60%;
+  margin: 0 auto;
+}
+.home_tab .home_tab_title .iconsearch {
+  position: absolute;
+  top: 30%;
+  -webkit-transform: translate(-50%);
+          transform: translate(-50%);
+  right: 5%;
+}
+
